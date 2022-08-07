@@ -1,15 +1,18 @@
 {
   "name": "Bitgert Mainnet",
   "chain": "Brise",
+  "icon": "brise",
   "rpc": [
     "https://rpc.icecreamswap.com",
     "https://mainnet-rpc.brisescan.com",
     "https://chainrpc.com",
     "https://serverrpc.com"
+    "https://testnet-rpc.brisescan.com"
+    "https://testnet.chainrpc.com"
   ],
   "faucets": [],
   "nativeCurrency": {
-    "name": "Bitrise Token",
+    "name": "Bitgert",
     "symbol": "Brise",
     "decimals": 18
   },
